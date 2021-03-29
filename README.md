@@ -8,4 +8,4 @@ I love programming all sort of things, from hardware level stuff like C on micro
 
 I also have some small snippets of code that I found to be valuable: https://gist.github.com/GuilhermeRossato.
 
-I'm currently open for remote work so if you want to contact me regarding opportunities you can do so privately via [email](mailto:guilhermrossato@gmail.com) or through [linkedin](https://www.linkedin.com/in/guilherme-rossato/)). No need to be formal, I value effective communication over formalities.
+I'm currently open for remote work so if you want to contact me regarding opportunities you can do so privately via [email](mailto:guilhermrossato@gmail.com) or through [linkedin](https://www.linkedin.com/in/guilherme-rossato/). No need to be formal, I value effective communication over formalities.
