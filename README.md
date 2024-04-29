@@ -1,9 +1,7 @@
 ### Welcome to my Github profile 
 
-I am a Brazilian developer who loves to try new things. Most of my projects are in english so feel free to look around.
+I am a Brazilian developer and data-engineer who loves to experiment with technology and create interesting projects to solve all sort of problems. Although I like backend development I have projects in all sort of stacks, I'm a Computer Engineer bachelor and understand everything from low-level network protocols to high-level software concepts, methodologies and tools. Feel free to look around, most repositories here are personal projects entirely built by me, the professional ones are private, of course.
 
-By the way every repository was made by me fully unless the project is a fork of another repo!
+I love programming all sort of things, from hardware level stuff like C on microcontrollers to modern scripts like python / typescript / node.js, etc.
 
-I love programming all sort of things, from hardware level stuff like C on microcontrollers to modern javascript, typescript and node.js scripts.
-
-I also have some small snippets of code that I found to be valuable: https://gist.github.com/GuilhermeRossato
+I also have some snippets that might be useful for other devs: https://gist.github.com/GuilhermeRossato
